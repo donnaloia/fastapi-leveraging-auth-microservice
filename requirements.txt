@@ -1,0 +1,7 @@
+fastapi
+fastapi-pagination
+faster_than_requests
+sqlalchemy
+asyncpg
+databases
+psycopg2
