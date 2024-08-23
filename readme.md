@@ -1,7 +1,7 @@
-# Project Template for Local PostGres with FastAPI on Container
+# REST API written in fastapi that uses our external authentication and authorization services written in Gleam
 
 ## What is this for?
-- A quick starter project template for FastAPI with generic models, pagination, docs and detailed error handling out of the gate
+- A FastAPI project with a generic resource hierarchy, pagination, docs and detailed error handling.  The objective of this excercise was to build a middleware that hooks into our custom authz/authn services running on the Erlang VM.
 
 ## How to run?
 - In the root dir:
